@@ -1,6 +1,9 @@
 ---
 title: "Tutorial"
-output: learnr::tutorial
+output: 
+  learnr::tutorial:
+    css: css/style.css
+    theme: cerulean
 runtime: shiny_prerendered
 ---
 
